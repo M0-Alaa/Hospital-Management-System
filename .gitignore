@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+patients.txt
+doctors.txt
+appointments.txt
