@@ -1,3 +1,0 @@
-D001|Dr. Samir Nabil|45|Male|Cardiology|True
-D002|Dr. Salma Youssef|38|Female|Endocrinology|True
-D003|Dr. Tarek Mahmoud|50|Male|General Medicine|True
